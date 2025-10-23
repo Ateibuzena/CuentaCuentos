@@ -1,5 +1,5 @@
 # 📚 CuentaCuentos – Order Processing
-![workflow](https://drive.google.com/file/d/1uW7FzV1xtDIVCjJkrh8uHWEIgqb-O63H/view?usp=drivesdk)
+![workflow](https://drive.google.com/uc?export=view&id=1uW7FzV1xtDIVCjJkrh8uHWEIgqb-O63H)
 **CuentaCuentos** es un pipeline de generación y validación de relatos breves mediante IA.  
 El sistema recibe parámetros (nombre del relato, tema, tamaño,...) y genera automáticamente varias versiones de un texto, las valida, selecciona la mejor y crea una imagen representativa.
 
