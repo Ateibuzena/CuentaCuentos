@@ -37,6 +37,7 @@ python src/main.py --input params.json
 ---
 
 ## Estructura
+```bash
 CuentaCuentos/
 │
 ├── src/
@@ -59,7 +60,7 @@ CuentaCuentos/
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
-└── LICENSE
+```
 
 # 📈 Próximos pasos
 
