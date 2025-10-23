@@ -62,14 +62,18 @@ CuentaCuentos/
 ├── .gitignore
 ```
 
-# 📈 Próximos pasos
+# 📈 Cómo funciona
+```bash
+# Crear entorno virtual
+python -m venv venv
+source venv/bin/activate      # En Windows: venv\Scripts\activate
 
-Añadir interfaz web (Flask/FastAPI)
+# Instalar dependencias
+pip install -r requirements.txt
 
-Integrar base de datos para almacenar relatos
-
-Crear panel de selección de resultados
-
+# Ejecutar la app
+streamlit run src/main.py
+```
 
 ---
 
