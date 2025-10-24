@@ -29,13 +29,6 @@ El sistema recibe parámetros (nombre del relato, tema, tamaño,...) y genera au
 
 ---
 
-## 🚀 Ejecución
-```bash
-pip install -r requirements.txt
-python src/main.py --input params.json
-```
----
-
 ## Estructura
 ```bash
 CuentaCuentos/
