@@ -85,6 +85,6 @@ streamlit run src/main.py
 |-----------|--------------|--------------------|
 | `requirements.txt` | Lista exacta de dependencias 
 | `README.md` | Explicación clara, pipeline, y ejecución 
-| `assets/` | Incluye el diagrama que has subido 
+| `assets/` | Incluye el diagrama
 | `tests/` | Unit tests simples (por ejemplo, validar longitud de texto) 
-| `main.py` | Pipeline central que llame a las demás funciones
+| `main.py` | Pipeline central que llama a las demás funciones
