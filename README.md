@@ -74,7 +74,7 @@ streamlit run src/main.py
 - Un flujo **bien modularizado**.  
 - Separación clara entre procesamiento, validación, y generación.  
 - Uso de **nombres semánticos y estructurados**.  
-- Un README explicativo que documenta tu razonamiento.  
+- Un README explicativo que documenta elrazonamiento.  
 - Posible expansión a IA o automatización (encaja perfecto con el enfoque del reto).
 
 ---
